@@ -1,7 +1,7 @@
 [![MasterHead](mariodev.gif)](https://llvasconcellos2.github.io/)
 
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate flutter developer from Brazil</h3>
+<h3 align="center">A passionate software engineer from Brazil</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasitbinqadeer&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitbinqadeer" /> </p>
